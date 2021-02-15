@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+}
+ body {
+    
+     text-align: center;
+     font-family: Arial;
+     color: #eeeeee;
+     background-image: linear-gradient(#0003a8,#111111); 
+     font-size: 30px;
+ }
+
+ 
+ lorem {
+     display:block;
+     color: #747474;
+     margin-left: 20%;
+     margin-right: 20%;
+ }
+ 
+ 
+ 
